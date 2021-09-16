@@ -1,0 +1,50 @@
+StudentID,Surname,FirstName,Code,Grade,Pass/Fail
+2000101,Nguyen,Van An,3A,2.27,pass
+2000102,Nguyen,Truong Bao,3A,2.08,pass
+2000103,Tran,Van Cuong,3A,2.4,pass
+2000104,Truong,Thi Diem,3A,2.28,pass
+2000105,Le,Thanh Em,3A,2.27,pass
+2000106,Truong,Thi Fuc,3A,2.22,pass
+2000107,Nguyen,Thi Giang,3A,2.42,pass
+2000108,Tran,Minh Hang,3A,2.23,pass
+2000109,Huynh,Cong Jack,3A,2.17,pass
+2000110,Nguyen,Trung Kim,3A,2.28,pass
+2000111,Pham,Van Lam,3A,2.08,pass
+2000112,Nguyen,Tran Thien Manh,3A,2.1,pass
+2000113,Nguyen,Bao Ngan,3A,2.27,pass
+2000114,Le,Quang Oach,3A,2.4,pass
+2000115,Pham,Tran Phuong,3A,2.35,pass
+2000116,Nguyen,Van Dung,3A,1.68,fail
+2000117,Le,Thi Thanh Xuan,3A,1.43,fail
+2000118,Doan,Ngoc Khue,3A,1.43,fail
+2000119,Tran,Le Ngoc Tram,3A,1.43,fail
+2000120,Nguyen,Dac Tan,3A,1.38,fail
+2000121,Nguyen,Quoc Tuan,3A,2.3,pass
+2000122,Hong,Hoang Ngan,3A,1.53,fail
+2000123,Le,Thi Thanh An,3A,1.43,fail
+2000124,Dang,Hoai Ngoc,3A,1.78,fail
+2000125,Phan,Thi Thao Vy,3A,1.63,fail
+2000126,Phan,Kieu My,3A,1.58,fail
+2000127,Quy,Nu Bao Truc,3A,1.73,fail
+2000128,Do,Hoang Ngan,3A,1.73,fail
+2000129,Ho,Cong Thanh,3A,1.93,fail
+2000130,Le,Thi Nhu Ngoc,3A,1.78,fail
+2000131,Nguyen,Manh Hung,3A,1.53,fail
+2000132,Truong,Minh Hoang,3A,1.78,fail
+2000133,Nguyen,Van Toan,3A,1.83,fail
+2000134,Hoang,Thao My,3A,1.78,fail
+2000135,Vo,Hoai Ngoc,3A,2.15,pass
+2000136,Phan,Boi Tran,3A,2.05,pass
+2000137,Vu,Thi My Hanh,3A,2.15,pass
+2000138,Pham,Thi My Linh,3A,2.3,pass
+2000139,Nguyen,Quang Tri,3A,2.25,pass
+2000140,Nguyen,Cong Hung,3A,2.25,pass
+2000141,Nguyen,Minh Hieu,3A,2.25,pass
+2000142,Nguyen,Cong Hau,3A,2.33,pass
+2000143,Nguyen,Thi Thuy Duong,3A,2.38,pass
+2000144,Tran,Huy Tung,Da,2.23,pass
+2000145,Dang,Sang,3A,2.23,pass
+2000146,Ngo,Thi Khanh Ly,3A,2.28,pass
+2000147,Nguyen,Quang Du,3A,2.28,pass
+2000148,Nguyen,Quang Tan,3A,2.0,pass
+2000149,Nguyen,Thi Kim Anh,3A,1.97,fail
